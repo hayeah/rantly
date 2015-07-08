@@ -13,7 +13,7 @@ The transition plan is as follows:
 * [x] Move over any closed issues that have relevant discourse.
 * [ ] Fix open issues.
 * [ ] Push new gem version after testing functionality.
-* [ ] Continue new development; Changes will be pushed back upstream to "hayeah/rantly":https://github.com/hayeah/rantly over the course of the next month.
+* [ ] Continue new development; Changes will be pushed to the old repository "hayeah/rantly":https://github.com/hayeah/rantly over the course of the next month. After the transition period it will be phased out.
 
 h1. Imperative Random Data Generator and Quickcheck
 
